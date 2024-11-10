@@ -14,7 +14,7 @@ An advanced stock market analysis platform that combines historical data visuali
 ## Installation 🛠️
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/stock-market-analysis.git
+git clone https://github.com/U-C4N/Stock-predictor.git
 cd stock-market-analysis
 
 # Install dependencies
@@ -51,10 +51,3 @@ streamlit run main.py
 - Investment analytics: utils.py
 - AI analysis: ai_analyzer.py
 
-## Screenshots 📸
-![Dashboard Screenshot](image.png)
-
-## License 📄
-MIT License
-
-Built with ❤️ for data-driven trading decisions
